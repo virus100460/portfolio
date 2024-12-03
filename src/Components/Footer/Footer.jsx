@@ -8,9 +8,9 @@ const Footer = () => {
   return (
     <div
       id="Footer"
-      className="flex justify-around bg-[#465697] text-white p-10 md:p-12 items-center"
+      className="flex justify-around bg-[#465697] text-white p-10 md:p-12 items-center flex-wrap gap-5"
     >
-      <div data-aos="zoom-in">
+      <div className="text-center">
         <h1 className="text-2xl md:text-6xl font-bold">Contact</h1>
         <h3 className="text-sm md:text-2xl font-normal">
           Feel Free To Reach Out !!!!! <br />
@@ -21,7 +21,7 @@ const Footer = () => {
           <a href="tel:+918717918409">+91-8717918409</a>
         </li>
       </div>
-      <ul data-aos="zoom-in" className="text-sm md:text-xl">
+      <ul  className="text-sm md:text-xl">
         <li className="flex gap-1 items-center">
           <MdOutlineEmail size={20} />
           <a href="mailto:mohitsinghrajput460@gmail.com">
