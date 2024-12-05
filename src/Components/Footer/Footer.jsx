@@ -17,7 +17,7 @@ const Footer = () => {
         </h3>
       </div>
       <div className="">
-        @mohitsinghrahput, All rights reserved...
+        @mohitsinghrajput, All rights reserved...
       </div>
 
       <ul className="text-sm md:text-xl flex gap-4">
