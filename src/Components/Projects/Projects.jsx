@@ -22,7 +22,7 @@ const Projects = () => {
           title="Quiz App React"
           main="A quiz app where users can test their knowledge on various topics. Features include multiple-choice questions, timers, and score tracking. Built with React.js."
           demoLink="https://virus100460.github.io/quiz-app-react/"
-          sourceCodeLink="https://github.com/username/quiz-app"
+          sourceCodeLink="https://github.com/virus100460/quiz-app-react"
           imageSrc={quizAppImg}
         />
         <ProjectCard
