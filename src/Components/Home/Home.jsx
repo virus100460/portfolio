@@ -22,7 +22,8 @@ const Home = () => {
           Azure Fundamentals and AI-900: Microsoft Azure AI Fundamentals
           certifications.
         </p>
-        <a href="mailto:mohitsinghrajput460@gmail.com">
+        <div className="flex flex-wrap gap-4">
+          <a href="mailto:mohitsinghrajput460@gmail.com">
           <button
             data-aos="zoom-in"
             className="mt-5 md:md-10 text-white py-2 px-9 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]"
@@ -30,6 +31,16 @@ const Home = () => {
             Contact ME
           </button>
         </a>
+        <a href="https://drive.google.com/file/d/1TuK5R8NJKQdwE4EJn5SvIvKSojbWC7Et/view" target="_blank">
+          <button
+            data-aos="zoom-in"
+            className="mt-5 md:md-10 text-white py-2 px-9 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]"
+          >
+            Resume
+          </button>
+        </a>
+        </div>
+
       </div>
       <div>
         <img className="" src={avatarImg} alt="" />
