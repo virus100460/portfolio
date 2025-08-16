@@ -21,7 +21,7 @@ const About = () => {
                     React Developer
                   </h1>
                   <p className="text-sm md:text-md leading-tight">
-                    With over 3+ years of experience as a React Developer, I
+                    With over 3.5+ years of experience as a React Developer, I
                     specialize in crafting dynamic, intuitive web applications
                     using React, Redux, and modern JavaScript frameworks. My
                     expertise lies in front-end development, component-based
@@ -46,7 +46,7 @@ const About = () => {
                     FrontEnd Developer
                   </h1>
                   <p className="text-sm md:text-md leading-tight">
-                    As a Front-End Developer with 3+ years of experience, I am
+                    As a Front-End Developer with 3.5+ years of experience, I am
                     dedicated to building visually engaging, interactive, and
                     high-performance web applications. I specialize in
                     developing responsive and user-friendly interfaces using
@@ -72,7 +72,7 @@ const About = () => {
                     AEM FrontEnd Developer (AEM Author Dev)
                   </h1>
                   <p className="text-sm md:text-md leading-tight">
-                    As an AEM Front-End Developer with 3+ years of experience, I
+                    As an AEM Front-End Developer with 3.5+ years of experience, I
                     specialize in building and maintaining dynamic, responsive,
                     and high-performance websites using Adobe Experience Manager
                     (AEM). My expertise includes developing AEM components,
